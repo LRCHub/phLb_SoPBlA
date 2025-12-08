@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Not Like Us",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2025-12-08T10:56:11.088465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_Not_Like_Us_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "They Are Not Like Us",
+      "artist": "The Walkabouts",
+      "has_synced": false,
+      "path": "select/02_They_Are_Not_Like_Us_The_Walkabouts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/07_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/08_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Like Us Drake Diss",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/09_Not_Like_Us_Drake_Diss_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/10_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/12_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/13_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - Not Like Us (Drake Diss)",
+      "artist": "GensPov",
+      "has_synced": true,
+      "path": "select/15_Kendrick_Lamar_-_Not_Like_Us_(Drake_Diss)_GensPov.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/17_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "1 Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/18_1_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "1o Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/19_1o_Not_Like_Us_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_Not_Like_Us_Kendrick_Lamar.txt"
+    }
+  ]
+}
